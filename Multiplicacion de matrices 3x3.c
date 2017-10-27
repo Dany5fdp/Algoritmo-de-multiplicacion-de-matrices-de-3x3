@@ -1,3 +1,4 @@
+//hacer menu de 3 opciones suma y resta y multiplicacion
 #include<stdio.h>
 #include<stdlib.h>
 
